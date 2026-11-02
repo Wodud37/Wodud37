@@ -1,16 +1,13 @@
-## Hi there 👋
+## 안녕하세요, 한림대학교 빅데이터전공 학생입니다 👋
 
-<!--
-**Wodud37/Wodud37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+데이터로 문제를 발견하고, 그걸 직접 만들어보며 해결하는 걸 공부하고 있어요.
 
-Here are some ideas to get you started:
+- 🎓 빅데이터전공
+- 📊 관심 분야: 데이터 분석, 머신러닝, 백엔드
+- 🌱 지금 하고 있는 것: 서울 따릉이 수요 분석 프로젝트
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 사용해 본 기술
+Python · Java · C++ · SQL
+
+### 📫 연락처
+- Email: wo_dud7@naver.com
